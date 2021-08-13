@@ -1,5 +1,5 @@
 # Portafolio
-!(url:https://raw.githubusercontent.com/AnthonyMerive/AnthonyMerive/main/foto.png)
+![foto](https://user-images.githubusercontent.com/87150629/129364993-929534b4-728c-408b-b47c-00480d0d427f.png)
 ## Anthony Jose Colmenares Rivas
 
 -*Edad:* 28 años<br>
