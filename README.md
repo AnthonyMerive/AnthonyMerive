@@ -1,15 +1,18 @@
-# Portafolio
-![foto](https://user-images.githubusercontent.com/87150629/129364993-929534b4-728c-408b-b47c-00480d0d427f.png)
 ## Anthony Jose Colmenares Rivas
 
--*Pais:* Colombia<br>
--*whatsapp:* +57 321 458 27 86
+![foto](https://lh3.googleusercontent.com/ogw/ADea4I4JTPzzDleLm5c6O04s3xBcb-XQLr4N0vggOyEm5w=s83-c-mo)
+
+**Nacionalidad:** Venezolano <br>
+**Pais de residencia:** Colombia<br>
+**whatsapp:** +57 321 458 27 86<br>
 
 ## Proyectos de muestra:
 
-- https://github.com/AnthonyMerive/emprende-ya
-- https://github.com/AnthonyMerive/movies-react
-- https://github.com/AnthonyMerive/reto-softka
-- https://github.com/AnthonyMerive/netnet
-- https://github.com/AnthonyMerive/pokedexapp
- 
+* [EmprendeYA! (React/Redux/Firebase)](https://github.com/AnthonyMerive/emprende-ya)
+* [PokeDexAPP (React/Redux/Firebase)](https://github.com/AnthonyMerive/pokedexapp)
+* [PokeAPP FullStack (React/Redux/MySql/SpringBoot)](https://github.com/carlosMorenoQ/petProyectSofkaU)
+* [Portal de Peliculas - Consumo de API (React)](https://github.com/AnthonyMerive/movies-react)
+* [Workshop (JavaScrip Moderno / despliegue GitHub-pages)](https://github.com/AnthonyMerive/netnet)
+* [Reto Aspirante SofkaU](https://github.com/AnthonyMerive/reto-softka)
+
+
