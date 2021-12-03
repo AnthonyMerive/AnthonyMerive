@@ -2,11 +2,13 @@
 
 ![foto](https://lh3.googleusercontent.com/ogw/ADea4I4JTPzzDleLm5c6O04s3xBcb-XQLr4N0vggOyEm5w=s83-c-mo)
 
+"Geek apasionado por la resolucion de problemas"
+
 **Nacionalidad:** Venezolano <br>
 **Pais de residencia:** Colombia<br>
 **whatsapp:** +57 321 458 27 86<br>
 
-## Proyectos de muestra:
+## Portafolio:
 
 * [EmprendeYA! (React/Redux/Firebase)](https://github.com/AnthonyMerive/emprende-ya)
 * [PokeDexAPP (React/Redux/Firebase)](https://github.com/AnthonyMerive/pokedexapp)
