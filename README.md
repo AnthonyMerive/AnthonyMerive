@@ -10,6 +10,8 @@
 
 ## Portafolio:
 
+* [Full-stack Arquitectura CQRS (H2, Spring-boot, Axon, React, Redux, Firebase)](https://github.com/AnthonyMerive/sistema-bancario)
+* [Full-stack QuestionsAplicacion (Mongo, Spring-boot, React, Redux, Firebase)](https://github.com/AnthonyMerive/fullstack-questions)
 * [EmprendeYA! (React/Redux/Firebase)](https://github.com/AnthonyMerive/emprende-ya)
 * [PokeDexAPP (React/Redux/Firebase)](https://github.com/AnthonyMerive/pokedexapp)
 * [PokeAPP FullStack (React/Redux/MySql/SpringBoot)](https://github.com/carlosMorenoQ/petProyectSofkaU)
