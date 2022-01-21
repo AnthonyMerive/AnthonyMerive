@@ -4,7 +4,6 @@
 
 "Geek apasionado por la resolucion de problemas"
 
-**Nacionalidad:** Venezolano <br>
 **Pais de residencia:** Colombia<br>
 **whatsapp:** +57 321 458 27 86<br>
 
