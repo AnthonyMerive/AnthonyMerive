@@ -12,6 +12,8 @@
 * [Full-stack Arquitectura CQRS (H2, Spring-boot, Axon, React, Redux, Firebase)](https://github.com/AnthonyMerive/sistema-bancario)
 * [Full-stack QuestionsAplicacion (Mongo, Spring-boot, React, Redux, Firebase)](https://github.com/AnthonyMerive/fullstack-questions)
 * [Full-stack PokedexApp (React/Redux/MySql/SpringBoot)](https://github.com/carlosMorenoQ/petProyectSofkaU)
+* [Arquitectura (JAVA/Clean/Hexagonal)](https://github.com/AnthonyMerive/java-hexagonal)
+* [Arquitectura (dotNET/Clean/Hexagonal)](https://github.com/AnthonyMerive/dot-net-hexagonal)
 * [Arquitectura (JAVA/DDD)](https://github.com/AnthonyMerive/DDD-Store)
 * [EmprendeYA! (React/Redux/Firebase)](https://github.com/AnthonyMerive/emprende-ya)
 * [PokeDexAPP (React/Redux/Firebase)](https://github.com/AnthonyMerive/pokedexapp)
